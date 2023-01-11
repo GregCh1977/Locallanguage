@@ -1,0 +1,21 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [6,4],
+    "Body": [
+     "","en-US","pl-PL","es-CU",
+     "Language","English","polski","spanish",
+     "Locales","location","lokalizacja","space",
+     "English","","","",
+     "Spanish","","","",
+     "Polish","","",""
+    ]
+   }
